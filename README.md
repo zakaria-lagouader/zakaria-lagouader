@@ -55,7 +55,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/zakaria-lagouader/zakaria-lagouader/output/snake.svg" alt="Snake animation" />
-
-###
